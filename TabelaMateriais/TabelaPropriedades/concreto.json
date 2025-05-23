@@ -1,0 +1,12 @@
+{
+    "nome_material": "Concreto",
+    "propriedades": {
+        "densidade_kg_m3": 2400,
+        "resistencia_tracao_pa": 3e6,
+        "resistencia_compressao_pa": 30e6,
+        "condutividade_termica_w_mk": 1.7,
+        "calor_especifico_j_kgk": 880,
+        "coeficiente_expansao_termica_k": 12e-6,
+        "resistividade_eletrica_ohm_m": 1e3
+    }
+}

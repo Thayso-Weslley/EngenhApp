@@ -1,0 +1,12 @@
+{
+    "nome_material": "Cobre",
+    "propriedades": {
+        "densidade_kg_m3": 8960,
+        "resistencia_tracao_pa": 220e6,
+        "resistencia_compressao_pa": 220e6,
+        "condutividade_termica_w_mk": 400,
+        "calor_especifico_j_kgk": 385,
+        "coeficiente_expansao_termica_k": 17e-6,
+        "resistividade_eletrica_ohm_m": 1.7e-8
+    }
+}

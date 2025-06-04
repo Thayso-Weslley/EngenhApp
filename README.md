@@ -81,7 +81,6 @@ A3/
 │   └── TransferenciaCalor.py
 ├── TabelaMateriais/
 │   ├── Cadastro.py
-│   ├── materiais.json
 │   └── TabelaPropriedades/
 │       └── (arquivos .json de propriedades de materiais)
 ├── Estilo/
